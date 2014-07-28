@@ -1,0 +1,44 @@
+Practica
+
+- Que permisologia tiene los siguientes archivos
+rwxrwx---  = 770 
+---------  = 000
+rw-rw----  = 660
+r-xr-xr-x  = 555
+---rw-r-x  = 065
+--x--x--x  = 111
+
+
+- Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
+firefox.txt
+
+
+-Cuanto pesa tu /home/ y cuanto pesa /etc  /home = 1.6 gb /etc =6.7 mb
+
+
+- Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
+de un archivo llamado memoria.txt
+
+
+-Se requiere guardar toda la configuración de la versión del kernel en un archivo llamado kernel.txt
+
+
+- Como matamos un proceso del computador          = kill 9 + numero-de-proceso
+
+- Que hace el respectivo comando $cat toto > toto2  = crea un archivo de texto  con el nobre toto2, con la información del archivo toto. de no estar creado el primer archivo entonces no aplicaria. 
+
+- Como puedo visualizar las particiones del disco duro = fdisk -l 
+
+- Cree una carpeta con tu nombre                                      = mkdir jesus
+- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3      = touch c1 c2 c3
+- Guardamos en el c1 su nombre completo                               = nano c1 
+- Guardamos el c3 el correo electrónico                               = nano c3 
+- Describa a continuación la función de los siguientes directorios
+
+/bin   
+/home/ = es donde se encuentran todos los usuarios registrados y allí encontramos la informacion de actividades basicas . 
+/media = es donde se muestran lo dispositivos medios montados 
+/var  
+/	= raiz 
+/sbin  
+/boot 
